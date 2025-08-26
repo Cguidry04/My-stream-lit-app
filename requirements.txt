@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+yfinance
+scikit-learn
+plotly
+requests
+alpaca-trade-api
+python-dotenv
+schedule
