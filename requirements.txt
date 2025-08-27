@@ -8,3 +8,4 @@ requests
 alpaca-trade-api
 python-dotenv
 schedule
+alpha_vantage
